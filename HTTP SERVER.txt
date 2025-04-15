@@ -1,0 +1,20 @@
+Requisição HTTP 
+
+URL: http:pokeapi.con/api/v2/pokemon
+	${Endereço}/${path = caminho de identificação do recurso}
+
+Request Method: GET | POST | PUT | DELETE
+
+Request Headers //
+	content-type: application/json
+
+Request Body 
+{
+ "name": "Teste"
+} 
+
+Status Code: 200 //significa oque aconteceu
+
+Response Headers // como essa reposta esta configurada
+
+Response Body //a reposta em si
